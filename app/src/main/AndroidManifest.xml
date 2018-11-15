@@ -21,6 +21,12 @@
                 android:label="@string/title_activity_add_student"
                 android:theme="@style/AppTheme.NoActionBar">
         </activity>
+        <activity android:name=".activites.DeleteStudentActivity">
+        </activity>
+        <activity android:name=".activites.UpdateStudent">
+        </activity>
+        <activity android:name=".activites.SearchStudentActivity">
+        </activity>
     </application>
 
 </manifest>
