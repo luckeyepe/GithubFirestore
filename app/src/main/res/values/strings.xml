@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Github Firestore</string>
+    <string name="title_activity_add_student">AddStudentActivity</string>
 </resources>

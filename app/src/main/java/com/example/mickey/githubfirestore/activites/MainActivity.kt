@@ -1,7 +1,8 @@
-package com.example.mickey.githubfirestore
+package com.example.mickey.githubfirestore.activites
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.mickey.githubfirestore.R
 
 class MainActivity : AppCompatActivity() {
 
